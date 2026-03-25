@@ -1,4 +1,4 @@
-from modelos import Usuario, Jogo, Avaliacao, Conquista, ListaPersonalizada
+from models import Usuario, Jogo, Avaliacao, Conquista, ListaPersonalizada
 
 class SistemaNoctis:
     def __init__(self):
