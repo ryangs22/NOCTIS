@@ -2,7 +2,7 @@ from system import SistemaNoctis
 
 def menu():
     print("\n" + "="*60)
-    print("NOCTIS - Plataforma de Jogos")
+    print("NOCTIS - GameTracker")
     print("="*60)
     print("1. Cadastrar usuário")
     print("2. Fazer login")
