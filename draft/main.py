@@ -24,7 +24,6 @@ def listar_jogos(sistema):
     for j in sistema.jogos_catalogo:
         print(f"  {j.id_jogo} - {j.nome}")
  
- 
 def selecionar_jogo(sistema):
     listar_jogos(sistema)
     try:
