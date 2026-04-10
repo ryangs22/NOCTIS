@@ -1,6 +1,3 @@
-odels · PY
-Copiar
-
 from datetime import datetime
  
  
